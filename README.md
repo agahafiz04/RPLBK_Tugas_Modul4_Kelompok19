@@ -1,4 +1,4 @@
-# Music Player App 
+# Modul4_Kelompok19
 Program ini merupakan pemutar media yang dapat memutar semua berkas audio. Program ditampilkan dengan UI dinamis yang dapat merubah warna background sesuai dengan track lagu yang sedang dimainkan
 
 # How To Use
